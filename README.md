@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hello World! I'm Ebrar Sena Mangan
+🎓 Software Engineering Student @ Fırat University
 
-<!--
-**ebrarmangan/ebrarmangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about exploring tech, building apps, and embracing new challenges. From mobile development to AI, I’m on a journey to make ideas come to life!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 What You'll Find Here
+  FilmAramaSwiftUI: My journey in iOS with SwiftUI for a movie search app 🎥  
+  Data Science & AI: Projects around data exploration and predictive modeling 🌌
+🧩 Interests
+  Mobile Development 📱
+  Artificial Intelligence 🤖
+  Algorithmic Challenges 🧠
+🌐 Find Me Elsewhere
+  LinkedIn
+  Instagram
+Let’s build something amazing together! 💡
